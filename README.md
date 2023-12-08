@@ -43,8 +43,7 @@
 
 - Hands-on Activity 15 [Openstack Installation(Neutron, Horizon, Cinder)](https://github.com/Trilift/SysAdS4/tree/main/HOA15)
 
-- I’m currently learning **Managing Enterprise Servers**
-
+<p><strong>Reflections and Learnings</strong></p>
 <body align="left">In this course, I learnt how to apply my past knowledge of the Linux operating system to this course. In addition to connecting to servers via SSH, I now know how to build yaml files to perform system installations, upgrades, and other activities. I learned how to use Ansible and SSH to create scripts for managing other systems. I now understand how to improve task filtering by using tags and roles. I learned how to use Ansible roles and tasks while developing containers that are resource-efficient. This training has taught me a lot, and it will be useful in the future.</body>
 
-- 📫 Contact me using **qnbgdenila@tip.edu.ph**
+- 📫 Contact me using this email: **qnbgdenila@tip.edu.ph**
