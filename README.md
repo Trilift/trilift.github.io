@@ -1,7 +1,8 @@
 # trilift.github.io
 
-<h1 align="center">Final Project (CPE 232)</h1>
+<h1 align="center">Managing Enterprise Systems (CPE 232)</h1>
 <h3 align="center">Nikko Bryner G. Denila CPE31S4</h3>
+<body>This is a compilation of all Hands-on Activites for this course.</body>
 
 <p><strong>Prelim Period:</strong></p>
 
